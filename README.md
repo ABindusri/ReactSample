@@ -1,2 +1,3 @@
 # React Sample
-It's a React Sample project, to explore Reactjs
+It's a React Sample project, to explore Reactjs........
+Tools:
